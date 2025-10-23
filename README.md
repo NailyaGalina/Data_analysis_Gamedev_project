@@ -24,3 +24,8 @@ Python (pandas, numpy, seaborn, matplotlib, scipy).
 
 Ознакомиться с файлом решения тут:
 [Gamedev_project](Gamedev_project.ipynb)
+
+<br>
+<br>
+
+*Проект разработан мной на основе материалов, автор которых - [karpov.courses](https://karpov.courses)
